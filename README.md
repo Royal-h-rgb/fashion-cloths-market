@@ -293,5 +293,10 @@ document.getElementById("signupForm").addEventListener("submit", function(e) {
 </body>
 </html>
 ![african](https://github.com/user-attachments/assets/b8fa6491-6486-43ae-a625-a8e8e2cb4eff)
-![image4](https://github.com/user-attachments/assets/463287e1-df70-462d-9d87-bf0786d8e01c)
+![image1](https://github.com/user-attachments/assets/9e735ed7-17c8-4f07-882d-286b3646c4b4)
+![image2](https://github.com/user-attachments/assets/7402972b-0934-4d2b-8074-d63ba478a295)
+![image3](https://github.com/user-attachments/assets/704efbca-da1b-40c2-b257-4e8599bf2eba)
+![image4](https://github.com/user-attachments/assets/c981f78d-cf3e-4c84-b97f-93898204521f)
+![image5](https://github.com/user-attachments/assets/1329dd89-4435-4359-b34e-94a797030075)
+
 
