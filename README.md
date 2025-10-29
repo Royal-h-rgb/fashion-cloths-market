@@ -292,3 +292,4 @@ document.getElementById("signupForm").addEventListener("submit", function(e) {
 </script>
 </body>
 </html>
+![african](https://github.com/user-attachments/assets/b8fa6491-6486-43ae-a625-a8e8e2cb4eff)
